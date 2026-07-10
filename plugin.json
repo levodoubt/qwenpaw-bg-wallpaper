@@ -1,10 +1,10 @@
 {
   "id": "background-wallpaper",
   "name": "背景壁纸",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "type": "frontend",
   "description": "自定义QwenPaw WebUI背景，支持导入文件夹、轮播和透明度设置",
-  "author": "You",
+  "author": "Levodoubt",
   "entry": {
     "frontend": "index.js"
   },
