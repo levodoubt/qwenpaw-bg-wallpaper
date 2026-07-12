@@ -8,5 +8,8 @@
   "entry": {
     "frontend": "index.js"
   },
-  "min_version": "0.1.0"
+  "min_version": "0.1.0",
+  "qwenpaw_version": {
+    "min": "1.0.0",
+    "max": "2.0.x"
 }
